@@ -1,0 +1,5 @@
+{
+    "is_metallic": 1e-2,
+    "is_magnetic": 1e-2,
+    "is_semiconductor": 1.5
+}
