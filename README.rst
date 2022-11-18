@@ -1,8 +1,12 @@
 htdft-uq
 ++++++++
 
-Supporting datasets and scripts for the paper on quantifying uncertainty in
-high-throughput density functional theory (HT-DFT) calculations.
+Supporting datasets and scripts for the paper "Quantifying uncertainty in
+high-throughput density functional theory: a comparison of AFLOW, Materials
+Project, and OQMD", Hegde et al., arXiv:2007.01988 [cond-mat.mtrl-sci] (2020).
+DOI: `10.48550/arXiv.2007.01988 <doi_>`_.
+
+.. _doi: https://doi.org/10.48550/arXiv.2007.01988
 
 The dataset of materials properties queried-and-aggregated from the three HT-DFT
 databases, `AFLOW <aflow_>`_, `Materials Project <mp_>`_, and `OQMD <oqmd_>`_ is
