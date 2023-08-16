@@ -3,10 +3,12 @@ htdft-uq
 
 Supporting datasets and scripts for the paper "Quantifying uncertainty in
 high-throughput density functional theory: a comparison of AFLOW, Materials
-Project, and OQMD", Hegde et al., arXiv:2007.01988 [cond-mat.mtrl-sci] (2020).
-DOI: `10.48550/arXiv.2007.01988 <doi_>`_.
+Project, and OQMD", Hegde et al., *Phys. Rev. Mater.* **7**, 053805 (2023).
+DOI: `10.1103/PhysRevMaterials.7.053805 <prm-doi_>`_. A preprint of the
+manuscript is available on `arXiv <arxiv-url_>`_.
 
-.. _doi: https://doi.org/10.48550/arXiv.2007.01988
+.. _prm-doi: https://doi.org/10.1103/PhysRevMaterials.7.053805
+.. _arxiv-url: https://doi.org/10.48550/arXiv.2007.01988
 
 The dataset of materials properties queried-and-aggregated from the three HT-DFT
 databases, `AFLOW <aflow_>`_, `Materials Project <mp_>`_, and `OQMD <oqmd_>`_ is
